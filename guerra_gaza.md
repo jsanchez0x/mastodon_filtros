@@ -1,0 +1,4 @@
+- Hamas
+- Israel
+- Gaza
+- Netanyahu
