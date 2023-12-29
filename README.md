@@ -7,7 +7,7 @@ Con el paso del tiempo he ido creando las siguientes listas de filtros para no v
 - [Fútbol](https://github.com/jsanchez0x/mastodon_filtros/blob/main/futbol.md) (España)
 - [Guerra de Gaza](https://github.com/jsanchez0x/mastodon_filtros/blob/main/guerra_gaza.md)
 - [Guerra de Ucrania](https://github.com/jsanchez0x/mastodon_filtros/blob/main/guerra_ucrania.md)
-- [Política](https://github.com/jsanchez0x/mastodon_filtros/blob/main/política.md) (España)
+- [Política](https://github.com/jsanchez0x/mastodon_filtros/blob/main/politica.md) (España)
 - [Superhéroes](https://github.com/jsanchez0x/mastodon_filtros/blob/main/superheroes.md)
 
 ## ¿Cómo aplicar los filtros?
