@@ -1,3 +1,7 @@
+# Filtros para política
+Suprime prácticamente todo el contenido político español.
+
+## Palabra clave o frase
 - Abascal
 - Almeida
 - Aznar
