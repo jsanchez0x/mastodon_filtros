@@ -1,5 +1,5 @@
-- Marvel
+- Batman
 - DC
+- Marvel
 - Multiverso
 - Spiderman
-- Batman
