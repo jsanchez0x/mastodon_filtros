@@ -1,3 +1,3 @@
-- Messi
 - Barça
+- Messi
 - Real Madrid
