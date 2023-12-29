@@ -1,0 +1,46 @@
+- Abascal
+- Almeida
+- Aznar
+- Ayuso
+- Bildu
+- chavismo
+- Ciudadanos
+- Congreso
+- ERC
+- facha
+- fascista
+- fascistas
+- Feijoo
+- Ferraz
+- Franco
+- franquismo
+- Generalitat
+- Govern
+- JxCat
+- Juan Manuel de Prada
+- Ley de Memoria Histórica
+- Margarita Robles
+- Mazón
+- Marlaska
+- Ministro
+- Ministros
+- nazi
+- nazis
+- Ortega Smith
+- Pablo Iglesias
+- Partido Popular
+- Pedro Sánchez
+- Pedro Sanchez
+- podemita
+- podemitas
+- Podemos
+- PP
+- PPSOE
+- PPVOX
+- PSOE
+- PSC
+- Venezuela
+- VOX
+- Votar
+- Elecciones
+- Vidal-Quadras
