@@ -1,0 +1,17 @@
+- ukrainians
+- ukrainian
+- russians
+- russian
+- ucranianos
+- ucraniano
+- rusos
+- ruso
+- Russia
+- Ukraine
+- Zelenski
+- Zelenskiy
+- Putin
+- Kiev
+- Wagner
+- Ucrania
+- Rusia
