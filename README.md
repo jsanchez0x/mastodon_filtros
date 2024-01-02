@@ -3,7 +3,7 @@ Con el paso del tiempo he ido creando las siguientes listas de filtros para no v
 
 ## Filtros disponibles
 - [Elon Musk](https://github.com/jsanchez0x/mastodon_filtros/blob/main/elon_musk.md)
-- [Eurovisión](https://github.com/jsanchez0x/mastodon_filtros/blob/main/eurovision.md) (España)
+- [Televisión](https://github.com/jsanchez0x/mastodon_filtros/blob/main/television.md) (España)
 - [Fútbol](https://github.com/jsanchez0x/mastodon_filtros/blob/main/futbol.md) (España)
 - [Guerra de Gaza](https://github.com/jsanchez0x/mastodon_filtros/blob/main/guerra_gaza.md)
 - [Guerra de Ucrania](https://github.com/jsanchez0x/mastodon_filtros/blob/main/guerra_ucrania.md)
