@@ -43,6 +43,7 @@ Suprime prácticamente todo el contenido político español.
 - PPVOX
 - PSOE
 - PSC
+- ultraderecha
 - Venezuela
 - VOX
 - Votar
