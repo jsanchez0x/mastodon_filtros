@@ -8,7 +8,6 @@ Suprime prácticamente todo el contenido político español.
 - Ayuso
 - Bildu
 - chavismo
-- Ciudadanos
 - Congreso
 - ERC
 - facha
@@ -31,13 +30,13 @@ Suprime prácticamente todo el contenido político español.
 - nazi
 - nazis
 - Ortega Smith
+- partidos
 - Pablo Iglesias
 - Partido Popular
 - Pedro Sánchez
 - Pedro Sanchez
 - podemita
 - podemitas
-- Podemos
 - PP
 - PPSOE
 - PPVOX
