@@ -6,6 +6,9 @@ Suprime prácticamente todo el contenido político español.
 - Almeida
 - Aznar
 - Ayuso
+- antifa
+- antifascista
+- antifascistas
 - Bildu
 - chavismo
 - Congreso
