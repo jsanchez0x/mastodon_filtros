@@ -6,3 +6,4 @@ Suprime la mayoría del contenido de este conflicto bélico.
 - Hamas
 - Israel
 - Netanyahu
+- Palestina
