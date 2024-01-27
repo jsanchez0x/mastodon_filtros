@@ -20,6 +20,7 @@ Suprime prácticamente todo el contenido político español.
 - Ferraz
 - Franco
 - franquismo
+- García-Castellón
 - Generalitat
 - Govern
 - JxCat
@@ -32,6 +33,8 @@ Suprime prácticamente todo el contenido político español.
 - Ministros
 - nazi
 - nazis
+- neoliberal
+- neoliberales
 - Ortega Smith
 - partidos
 - Pablo Iglesias
@@ -45,6 +48,7 @@ Suprime prácticamente todo el contenido político español.
 - PPVOX
 - PSOE
 - PSC
+- Teresa Ribera
 - ultraderecha
 - Venezuela
 - VOX
