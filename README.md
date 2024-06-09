@@ -17,4 +17,4 @@ Puedes seguir la [documentación oficial](https://docs.joinmastodon.org/user/mod
 Con la sesión iniciada pulsa [aquí](https://x.com/settings/muted_keywords) para acceder a la configuración de Palabras silenciadas.
 
 ## ¿Cómo aplicar los filtros en Threads?
-Con la sesión iniciada pulsa [aquí](https://www.threads.net/settings/privacy). Confirma que está activada la opción de "Palabras y frases personalizadas y después pulsa en "Administrar palabras y frases personalizadas".
+Con la sesión iniciada pulsa [aquí](https://www.threads.net/settings/privacy). Confirma que está activada la opción de "Palabras y frases personalizadas" y después pulsa en "Administrar palabras y frases personalizadas".
