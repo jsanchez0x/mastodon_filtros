@@ -13,4 +13,5 @@ Suprime la mayoría del contenido de fútbol.
 - Rayo Vallecano
 - Real Madrid
 - Uefa
+- FC Barcelona
 - Fifa
