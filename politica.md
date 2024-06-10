@@ -6,6 +6,7 @@ Suprime prácticamente todo el contenido político español.
 - Almeida
 - Aznar
 - Ayuso
+- Anguita
 - antifa
 - antifascista
 - antifascistas
@@ -53,5 +54,5 @@ Suprime prácticamente todo el contenido político español.
 - Venezuela
 - VOX
 - Votar
-- Elecciones
 - Vidal-Quadras
+- Yolanda Díaz
