@@ -1,5 +1,5 @@
 # Filtros para Mastodon en español
-Filtros para ignorar contenido en Mastodon. Estos filtros no dejan de ser listados de palabras, así que puedan utilizarse en cualquier red social que tenga la posibilidad de ignorar u ocultar contenido basado en palabras.
+Listados de palabras agrupados por categorías para poder utilizarse en cualquier red social que tenga la posibilidad de ignorar u ocultar contenido basado en palabras.
 
 ## Filtros disponibles
 - [Elon Musk](https://github.com/jsanchez0x/mastodon_filtros/blob/main/elon_musk.md)
@@ -17,4 +17,4 @@ Puedes seguir la [documentación oficial](https://docs.joinmastodon.org/user/mod
 Con la sesión iniciada pulsa [aquí](https://x.com/settings/muted_keywords) para acceder a la configuración de Palabras silenciadas.
 
 ## ¿Cómo aplicar los filtros en Threads?
-Con la sesión iniciada pulsa [aquí](https://www.threads.net/settings/privacy). Confirma que está activada la opción de "Palabras y frases personalizadas" y después pulsa en "Administrar palabras y frases personalizadas".
+Con la sesión iniciada pulsa [aquí](https://www.threads.net/settings/privacy). Pulsa en "Palabras ocultas". Confirma que están activadas las "Palabras y frases personalizadas" y después pulsa en "Administrar palabras y frases personalizadas".
